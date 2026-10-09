@@ -1,0 +1,201 @@
+(footprint "B02B-PASK-1_LF_SN_P"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "-25℃~+85℃ 1 1x2P 2 250V 2P 2mm 3A 5.3mm 6mm 7.7mm Copper alloy Glass-Fiber Reinforced PBT K Pin、With post PA Through Hole Tin UL94V-0 White 插件,P=2mm Wire To Board Connector ROHS")
+	(tags "B02B-PASK-1(LF)(SN) C398555 CONN-TH_2P-P1.50_B02B-PASK-1-LF-SN-P JST")
+	(property "Reference" "REF**"
+		(at 0 -4.108 0)
+		(layer "F.SilkS")
+		(uuid "6eb951a3-8862-4e5d-8eea-72bfee9d740e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 3.209 0)
+		(layer "F.Fab")
+		(uuid "0117d473-bfb2-4988-85eb-4f0480544975")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1912111437_JST-B02B-PASK-1-LF-SN_C398555.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a08e061-1fe5-4a0a-9d8c-8be1f6fd27ef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "-25℃~+85℃ 1 1x2P 2 250V 2P 2mm 3A 5.3mm 6mm 7.7mm Copper alloy Glass-Fiber Reinforced PBT K Pin、With post PA Through Hole Tin UL94V-0 White 插件,P=2mm Wire To Board Connector ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d1585ec6-49b8-4600-a996-e49eae2a5a4d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C398555"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13e7609a-1ceb-46df-8c46-7c58aace8cf5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.096 2.209)
+		(end -3.096 -3.091)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "57210fd3-f37e-4fb4-b46e-7f9f1e2c2371")
+	)
+	(fp_line
+		(start -3.048 -3.108)
+		(end -1.397 -3.108)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "65268908-ac02-4ebc-b08b-d68a12e677b6")
+	)
+	(fp_line
+		(start -1.397 -3.108)
+		(end -1.143 -3.108)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d5279b33-9c70-4038-96f2-06cd4649be25")
+	)
+	(fp_line
+		(start -1.143 -3.108)
+		(end -1.143 -1.965)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b4fc99db-ef92-429f-b99d-8f544ea16095")
+	)
+	(fp_line
+		(start -1.143 -1.965)
+		(end 1.143 -1.965)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0850fd39-0e31-400e-8260-92ff8a6f1270")
+	)
+	(fp_line
+		(start 1.143 -3.108)
+		(end 3.096 -3.108)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "899f0207-0f9c-41e5-aac4-01683742183c")
+	)
+	(fp_line
+		(start 1.143 -1.965)
+		(end 1.143 -3.108)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "46d335d4-592f-4d80-b33a-7eeae2aa34d3")
+	)
+	(fp_line
+		(start 3.096 2.209)
+		(end -3.096 2.209)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c0f5be02-9cc8-41d3-8a58-b3b553aafe87")
+	)
+	(fp_line
+		(start 3.096 2.209)
+		(end 3.096 -3.091)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cd0e7f03-7cac-43d6-96ae-baccb0775f5e")
+	)
+	(fp_poly
+		(pts
+			(xy 1.143 -1.965) (xy 1.143 -3.108) (xy 3.048 -3.108) (xy 3.048 2.226) (xy -3.048 2.226) (xy -3.048 -3.108)
+			(xy -1.143 -3.108) (xy -1.143 -1.838) (xy 0 -1.838) (xy 0 -1.457) (xy -1.27 -1.457) (xy -1.397 -1.584)
+			(xy -1.397 -2.854) (xy -2.794 -2.854) (xy -2.794 1.972) (xy 2.794 1.972) (xy 2.794 -2.854) (xy 1.397 -2.854)
+			(xy 1.397 -1.457) (xy 0.254 -1.457) (xy 0.254 -1.838) (xy 1.143 -1.838)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "5d1875c1-d107-4073-b290-9c568547cfc1")
+	)
+	(pad "1" thru_hole rect
+		(at -1 0 180)
+		(size 1.524 1.524)
+		(drill 0.9144)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9592a277-8998-4822-b279-b267a773f2be")
+	)
+	(pad "2" thru_hole oval
+		(at 1 0 180)
+		(size 1.524 1.524)
+		(drill 0.9144)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "862a33a3-307c-41ee-a141-0be032a5a91b")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/user/Documents/GitHub/Y.maku/kicad/_Setting/JLCImport/JLCImport.3dshapes/B02B-PASK-1_LF_SN_P.wrl"
+		(offset
+			(xyz 0 0.55 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

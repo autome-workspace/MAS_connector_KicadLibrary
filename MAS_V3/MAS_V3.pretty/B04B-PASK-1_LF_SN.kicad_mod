@@ -1,0 +1,242 @@
+(footprint "B04B-PASK-1_LF_SN"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "-25℃~+85℃ 1 10mm 1x4P 250V 2mm 3A 4 4P 5.3mm 7.7mm Copper alloy Glass-Fiber Reinforced PBT K Pin、With column PA Through Hole Tin UL94V-0 White 插件,P=2mm Wire To Board Connector ROHS")
+	(tags "B04B-PASK-1(LF)(SN) C160284 CONN-TH_B04B-PASK-1-LF-SN JST")
+	(property "Reference" "REF**"
+		(at 0 -3.15 0)
+		(layer "F.SilkS")
+		(uuid "cdeb1a6a-2ab4-4481-a4d7-22595a38c4c1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 4.15 0)
+		(layer "F.Fab")
+		(uuid "fdc63b41-480e-4f00-86d2-c962c2c10da9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_JST-B04B-PASK-1-LF-SN_C160284.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bcb8b9d4-8a9a-4462-bd58-7209af3c2ad3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "-25℃~+85℃ 1 10mm 1x4P 250V 2mm 3A 4 4P 5.3mm 7.7mm Copper alloy Glass-Fiber Reinforced PBT K Pin、With column PA Through Hole Tin UL94V-0 White 插件,P=2mm Wire To Board Connector ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3ed198eb-bd8a-4593-8e49-eca794087179")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C160284"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "882e8559-b01e-4644-8596-109e3063aead")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -5.002 -2.15)
+		(end 5 -2.15)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9aa71f8a-e296-426d-92e1-c2b90f83bc1d")
+	)
+	(fp_line
+		(start -5.002 3.15)
+		(end -5.002 -2.15)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1ff04f98-9bdc-4fc7-a918-1954132b4308")
+	)
+	(fp_line
+		(start -5.002 3.15)
+		(end -3.5 3.15)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7bb14a5d-40b5-4f3a-8477-35ecec85edd1")
+	)
+	(fp_line
+		(start -3.5 2)
+		(end -1.05 2)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ec468dbf-a7dc-44c0-9bb1-c7f5ac0523b7")
+	)
+	(fp_line
+		(start -3.5 3.15)
+		(end -3.5 2)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a4d927de-a98b-4e11-8020-4df8fb04dcf4")
+	)
+	(fp_line
+		(start -1.05 2)
+		(end -1.05 2.6)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b6789b79-ad00-43df-bf0c-606b9602eb92")
+	)
+	(fp_line
+		(start -1.05 2.6)
+		(end 1 2.6)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a86e0281-8848-46ef-a922-a457624a5b7f")
+	)
+	(fp_line
+		(start 1 2)
+		(end 3.55 2)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e603acc9-985b-4f49-afdb-9f2e3258aa81")
+	)
+	(fp_line
+		(start 1 2.6)
+		(end 1 2)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9bb9b1a1-4e6a-4a66-ba1b-646dd409a6ff")
+	)
+	(fp_line
+		(start 3.55 2)
+		(end 3.55 3.15)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9eb215ed-fa84-4208-9d1a-27740335fefb")
+	)
+	(fp_line
+		(start 3.55 3.15)
+		(end 5 3.15)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "efd4c5c5-15b6-44f9-b2ad-008147e4b096")
+	)
+	(fp_line
+		(start 5 -2.15)
+		(end 5 3.15)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f5f475c5-b17c-4bd6-ac7a-665de05fcd3c")
+	)
+	(fp_line
+		(start 5 3.15)
+		(end 5 3.15)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e73783d7-da34-41b1-9920-9be2f6d0dce3")
+	)
+	(pad "1" thru_hole rect
+		(at 3 0)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7de99a30-f7ba-4fae-a2c0-f129f416f878")
+	)
+	(pad "2" thru_hole oval
+		(at 1 0)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2cd439b3-abb7-4b08-a444-c36642b62fe8")
+	)
+	(pad "3" thru_hole oval
+		(at -1 0)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ff4b4bd4-999b-4a66-b919-4e91d1fdadb9")
+	)
+	(pad "4" thru_hole oval
+		(at -3 0)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "82816527-103f-47b1-88f1-0f446ff72a9f")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/user/Documents/GitHub/Y.maku/kicad/_Setting/JLCImport/JLCImport.3dshapes/B04B-PASK-1_LF_SN.wrl"
+		(offset
+			(xyz 0 -0.55 -1.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

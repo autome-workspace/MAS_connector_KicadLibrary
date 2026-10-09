@@ -1,0 +1,321 @@
+(footprint "S04B-PASK-2_LF_SN"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "-25℃~+85℃ 1 10mm 11.7mm 1x4P 250V 2mm 3A 4 4P 6.5mm Copper alloy Glass-Fiber Reinforced PBT K Pin、With post PA Right Angle Tin UL94V-0 White 弯插,P=2mm Wire To Board Connector ROHS")
+	(tags "C265096 CONN-TH_S04B-PASK-2 JST S04B-PASK-2(LF)(SN)")
+	(property "Reference" "REF**"
+		(at 0 -4.5 0)
+		(layer "F.SilkS")
+		(uuid "cc3c4cdd-2571-402a-98ad-43939fbc0cc0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 9.200212 0)
+		(layer "F.Fab")
+		(uuid "a8cd2954-e3f4-4477-9b8c-8d02757fa197")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1811151202_JST-S04B-PASK-2-LF-SN_C265096.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e3e17285-4ebf-4431-985b-8e7dd0a54c85")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "-25℃~+85℃ 1 10mm 11.7mm 1x4P 250V 2mm 3A 4 4P 6.5mm Copper alloy Glass-Fiber Reinforced PBT K Pin、With post PA Right Angle Tin UL94V-0 White 弯插,P=2mm Wire To Board Connector ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dca5f697-f9c2-4476-bd01-ecf043c373fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C265096"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "745e0588-938b-4732-be3b-90ec4417c769")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -5 -3.5)
+		(end -5 1.551432)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0308529e-23db-437a-b112-302a889e9451")
+	)
+	(fp_line
+		(start -4.999685 2.648814)
+		(end -4.999685 8.200212)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5ed8e9f2-34f0-41d1-8c1b-99b9372d8744")
+	)
+	(fp_line
+		(start -4.999685 8.200212)
+		(end 5.000346 8.200212)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "24101399-3746-439a-9243-5e729e45f0ba")
+	)
+	(fp_line
+		(start -3.91 -3.5)
+		(end -5 -3.5)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "186f2f0c-6742-4c33-a224-c25999f74d57")
+	)
+	(fp_line
+		(start -3.91 0.34)
+		(end -3.91 -3.5)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c810a07f-fe95-4b42-ac96-7bf6cf23f7d9")
+	)
+	(fp_line
+		(start -3.91 0.34)
+		(end -3.91 0.34)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cab30d35-3dd6-4698-8b39-f27f0f0be865")
+	)
+	(fp_line
+		(start -1.993138 0)
+		(end -2.006854 0)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e92741aa-ea36-49bb-857a-41ea0d0188a7")
+	)
+	(fp_line
+		(start -1.93294 0.34)
+		(end -2.067 0.34)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bc536e88-211a-4b2f-afd0-7f74f2f8462e")
+	)
+	(fp_line
+		(start 0.006858 0)
+		(end -0.006858 0)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1e0a8348-427b-4a27-88cb-c6ab3620cde1")
+	)
+	(fp_line
+		(start 0.067 0.34)
+		(end -0.067 0.34)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5fcf5ff2-d419-4d80-8bed-4b2060d030d7")
+	)
+	(fp_line
+		(start 2.006854 0)
+		(end 1.993138 0)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bd600b07-f098-4e0f-9176-cce0ffec4323")
+	)
+	(fp_line
+		(start 2.067 0.34)
+		(end 1.93294 0.34)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "57bf3086-30ce-4b87-bc83-22b9cb63d288")
+	)
+	(fp_line
+		(start 3.91 -3.5)
+		(end 3.91 0.34)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "64fa2a09-c434-4845-a19d-d0a031f6b9fd")
+	)
+	(fp_line
+		(start 5 -3.5)
+		(end 3.91 -3.5)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5037341a-1ce8-497d-a4f2-c1933c9d7d06")
+	)
+	(fp_line
+		(start 5 1.551203)
+		(end 5 -3.5)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9ccd07bc-6bca-43ec-8d71-5e73de5c1874")
+	)
+	(fp_line
+		(start 5.000346 8.200212)
+		(end 5.000346 2.649)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "791a8f54-63bf-42e1-bf4c-34d427a8f488")
+	)
+	(fp_circle
+		(center -4.499864 2.1)
+		(end -4.3 2.1)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "f9645a01-5bc6-4ee2-8f08-8086e4cf34e9")
+	)
+	(fp_circle
+		(center 4.5 2.1)
+		(end 4.7 2.1)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "8ad3638c-fe79-439d-b409-5460fb6e6150")
+	)
+	(fp_poly
+		(pts
+			(xy -4.873 2.648712) (xy -4.873 8.073) (xy 4.873 8.073) (xy 4.873 2.649) (xy 5.127 8.2) (xy -5 8.327)
+			(xy -5.127 2.648712)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "baded01e-f8f0-4a3e-b893-73b06968bf2a")
+	)
+	(pad "" np_thru_hole circle
+		(at -4.499864 2.1)
+		(size 1.1 1.1)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(uuid "d8777caa-572c-43cf-8847-1a2b9f6629ab")
+	)
+	(pad "" np_thru_hole circle
+		(at 4.5 2.1)
+		(size 1.1 1.1)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(uuid "9458db2e-10f2-47c8-9b16-b8a9f6818668")
+	)
+	(pad "1" thru_hole oval
+		(at -3 0)
+		(size 1.5 1.5)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "31d93a8d-41d7-40af-a085-97be186c2d2f")
+	)
+	(pad "2" thru_hole oval
+		(at -1 0)
+		(size 1.5 1.5)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "425b535a-4244-4f30-b746-253d8cb14d5c")
+	)
+	(pad "3" thru_hole oval
+		(at 1 0)
+		(size 1.5 1.5)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e3b456dc-bdd4-4a34-9112-1177d4908af0")
+	)
+	(pad "4" thru_hole oval
+		(at 3 0)
+		(size 1.5 1.5)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "20ba8832-b2cb-40cc-b0cf-6bbcd00f1718")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/user/Documents/GitHub/Y.maku/kicad/_Setting/JLCImport/JLCImport.3dshapes/S04B-PASK-2_LF_SN.wrl"
+		(offset
+			(xyz 0 -2.35 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,284 @@
+(footprint "XT30_2_2_PB-M_G_B"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "- Power connector / plug connector ROHS")
+	(tags "C19268029 CONN-TH_XT30PB-M Changzhou Amass Elec XT30(2+2)PB-M.G.B")
+	(property "Reference" "REF**"
+		(at 0 -3.6 0)
+		(layer "F.SilkS")
+		(uuid "c251627c-160d-4a41-ade0-be1efde5bd15")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 3.6 0)
+		(layer "F.Fab")
+		(uuid "eb24cafe-6f33-4225-8463-8e8d7f7b6d6b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401121133_Changzhou-Amass-Elec-XT30-2-2PB-M-G-B_C19268029.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c29d46c8-b924-429e-bc6f-69e7bf0b3bae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "- Power connector / plug connector ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8097a574-aed0-4aa6-8467-a38a19d45c87")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C19268029"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8e85fe96-9cb7-4590-9e85-e4949a718f04")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -8.000162 -0.35)
+		(end -7.172 -0.35)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "593b7502-117b-4579-ad74-debe858ff2fb")
+	)
+	(fp_line
+		(start -8 0.350139)
+		(end -8.000162 -0.35)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9b6c7e47-d1a6-44e7-a7c4-caa915e7fd5d")
+	)
+	(fp_line
+		(start -7.3 0.35)
+		(end -8 0.350139)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6b2315fd-a2b9-4fbf-9b97-a04f52ccc8b9")
+	)
+	(fp_line
+		(start -7.128 -2.6)
+		(end 6.772 -2.6)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "73cbf3d3-b70e-43b7-a671-9ec5d354ba49")
+	)
+	(fp_line
+		(start -7.128 2.6)
+		(end -7.128 -2.593)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4ee7ee51-5afd-4a3d-8742-cd0f6f4f4ad4")
+	)
+	(fp_line
+		(start 6.772 -2.6)
+		(end 6.772 2.6)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "569bab19-681f-4616-817a-a99cbbf10d5f")
+	)
+	(fp_line
+		(start 6.772 2.6)
+		(end -7.128 2.6)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fe0de3ed-06bb-4461-80b7-0af2a66ec9ca")
+	)
+	(fp_line
+		(start 6.9 -0.35)
+		(end 7.6 -0.35)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "62a94f0d-1943-44c6-b4e9-f965b15dae6f")
+	)
+	(fp_line
+		(start 7.6 -0.35)
+		(end 7.6 0.35)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ff090aff-8e5e-4fc8-92b1-7a093a6c9463")
+	)
+	(fp_line
+		(start 7.6 0.35)
+		(end 6.772 0.35)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c6d08be5-a88f-486f-9a4f-876cd9e648b8")
+	)
+	(fp_poly
+		(pts
+			(xy -4.95 -2.05) (xy -4.95 -1.75006) (xy -3.5 -1.75006) (xy -3.5 -2.05)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "259e6a1a-5235-4882-bd86-c3ce18662652")
+	)
+	(fp_poly
+		(pts
+			(xy -4.4 -1.5) (xy -4.1 -1.5) (xy -4.1 -2.4) (xy -4.4 -2.4)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "b5df9ca5-8534-44c4-8236-f983413eceb2")
+	)
+	(fp_poly
+		(pts
+			(xy 0 -2.05) (xy 0 -1.75) (xy 1.45 -1.75) (xy 1.45 -2.05)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "fe7c0472-3b97-41cc-a00e-6d1a9ae82a61")
+	)
+	(fp_poly
+		(pts
+			(xy -4.95 -2.05) (xy -4.95 -1.75) (xy -3.5 -1.75) (xy -3.5 -2.05)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "6db8afa8-8329-4969-bdb8-4b829462d2cf")
+	)
+	(fp_poly
+		(pts
+			(xy -4.4 -1.499845) (xy -4.1 -1.499845) (xy -4.1 -2.399868) (xy -4.4 -2.399868)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "24e44cb0-9d2e-496d-b973-3bb788001ac0")
+	)
+	(fp_poly
+		(pts
+			(xy 0 -2.05) (xy 0 -1.75) (xy 1.45 -1.75) (xy 1.45 -2.05)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "750acb67-e460-45b0-9f12-9e993a3cea1d")
+	)
+	(pad "1" thru_hole oval
+		(at 4.425 -1)
+		(size 1.524 1.524)
+		(drill 0.914)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "dbe4df04-dfb0-42f3-b7b9-b16d56a3ce18")
+	)
+	(pad "2" thru_hole oval
+		(at 4.425 1)
+		(size 1.524 1.524)
+		(drill 0.914)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "908a798f-245f-45b1-a5ad-bd84851979ce")
+	)
+	(pad "3" thru_hole oval
+		(at 0.575 0)
+		(size 2.7 2.7)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "574d2184-320a-45e1-94e6-95a9c64977bb")
+	)
+	(pad "4" thru_hole oval
+		(at -4.425 0)
+		(size 2.7 2.7)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f7dadd7e-0bbd-4bea-a8f1-3f6dd6680606")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/user/Documents/GitHub/Y.maku/kicad/_Setting/JLCImport/JLCImport.3dshapes/XT30_2_2_PB-M_G_B.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -180)
+		)
+	)
+)
