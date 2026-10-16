@@ -3090,7 +3090,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCImport:RC02115"
+		(property "Footprint" "MAS_V3:RC02115"
 			(at -1.016 -23.876 0)
 			(show_name no)
 			(do_not_autoplace no)
