@@ -2161,7 +2161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCImport:S02B-XASS-1_LF_SN"
+		(property "Footprint" "Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal"
 			(at 0.254 -9.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2172,7 +2172,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eXH.pdf"
 			(at 0.254 -9.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2216,7 +2216,18 @@
 				)
 			)
 		)
-		(property "ki_keywords" "C471523 CONN-TH_P2.50_S02B-XASS-1-LF-SN JST S02B-XASS-1(LF)(SN)"
+		(property "ki_keywords" "connector JST XH S2B-XH-A 2.50mm horizontal"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_fp_filters" "Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2327,7 +2338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCImport:S03B-PASK-2_LF_SN"
+		(property "Footprint" "Connector_JST:JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal"
 			(at 0.254 -9.652 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2338,7 +2349,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eXH.pdf"
 			(at 0.254 -9.652 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2382,7 +2393,18 @@
 				)
 			)
 		)
-		(property "ki_keywords" "C265095 CONN-TH_S03B-PASK-2-LF-SN JST S03B-PASK-2(LF)(SN)"
+		(property "ki_keywords" "connector JST XH S3B-XH-A 2.50mm horizontal"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_fp_filters" "Connector_JST:JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2511,7 +2533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCImport:S04B-PASK-2_LF_SN"
+		(property "Footprint" "Connector_JST:JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal"
 			(at 0.508 -9.652 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2522,7 +2544,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eXH.pdf"
 			(at 0.508 -9.652 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2566,7 +2588,18 @@
 				)
 			)
 		)
-		(property "ki_keywords" "C265096 CONN-TH_S04B-PASK-2 JST S04B-PASK-2(LF)(SN)"
+		(property "ki_keywords" "connector JST XH S4B-XH-A 2.50mm horizontal"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_fp_filters" "Connector_JST:JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
